@@ -1,0 +1,84 @@
+.BlueElement h1{
+    font-family: Montserrat;
+    text-align: center;
+    background-color: rgb(70, 8, 151);
+    color: white;
+    padding: 30px;
+}
+hr{
+    border: 2px dotted black;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+p{
+    font-family: Lemon;
+    color: rgb(73, 13, 13);
+    text-align: center;
+}
+.brand h1{
+    font-family: Montserrat;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.brand img{
+    border-radius: 50%;
+    margin-left: 9px;
+}
+.brand p{
+    text-align: center;
+}
+.jump h1{
+    font-family: Montserrat;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.jump img{
+    border-radius: 50%;
+    margin-right: 9px;
+}
+.jump p{
+    text-align: center;
+}
+.kick h1{
+    font-family: Montserrat;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.kick img{
+    border-radius: 50%;
+    margin-left: 9px;
+}
+.kick p{
+    text-align: center;
+}
+.hiit h1{
+    font-family: Montserrat;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.hiit img{
+    border-radius: 50%;
+    margin-right: 9px;
+}
+.hiit p{
+    text-align: center;
+}
+.name h1{
+    text-align: center;
+    font-family: Montserrat;
+    font-size: xx-large;
+    color: black;
+}
